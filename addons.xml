@@ -2,8 +2,8 @@
 <addon id="plugin.video.paradoxV2.0" name="[COLORwhite]Paradox V2[/COLOR]" version="2.0" provider-name="">
     <requires>
     <import addon="xbmc.python" version="3.0.0"/>
-		<import addon="script.module.resolveurl"/>
-		<import addon="script.module.requests" />
+	<import addon="script.module.resolveurl"/>
+	<import addon="script.module.requests" />
     <import addon="script.module.inputstreamhelper" />
     <import addon="inputstream.adaptive" version="2.6.0"/>
     </requires>
